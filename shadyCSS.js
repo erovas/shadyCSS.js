@@ -1,3 +1,11 @@
+/**
+ * shadyCSS.js v1.0.0
+ * Libreria que encapsula estilos CSS bajo a selector css
+ * [Back-compatibility: IE11+]
+ * Copyright (c) 2021, Emanuel Rojas Vásquez
+ * BSD 3-Clause License
+ * https://github.com/erovas/shadyCSS.js
+ */
 (function(window, document){
 
     if(window.shadyCSS)
