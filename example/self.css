@@ -1,0 +1,24 @@
+self-tag {
+    display: block;
+    width: 200px;
+    height: 300px;
+    background-color: red;
+}
+
+self-tag {
+    background-color: green;
+}
+
+self-tag {
+    background-color: yellow;
+}
+
+self-tag {
+    background-color: blue;
+}
+
+div {
+    width: 20px;
+    height: 20px;
+    background-color: red;
+}
